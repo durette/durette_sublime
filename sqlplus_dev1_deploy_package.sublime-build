@@ -1,0 +1,5 @@
+{
+	"cmd": ["sqlplus", "-NOLOGINTIME", "-L", "\/@inst1app9dev1", "@deploy_package.sql", "$file_base_name"],
+	"keyfiles": ["deploy_package.sql"],
+	"file_patterns": ["*.pck"]
+}

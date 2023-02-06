@@ -1,0 +1,4 @@
+[
+   { "keys": ["f5"], "command": "insert_iso_date"},
+   { "keys": ["shift+f5"], "command": "insert_six_date"}
+]
