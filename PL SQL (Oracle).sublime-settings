@@ -1,0 +1,13 @@
+// These settings override both User and Default settings for the PL SQL (Oracle) syntax
+{
+  "extensions":
+  [
+    "pck",
+    "sql",
+    "ial",
+    "trg",
+    "ins"
+  ],
+  "tab_size": 3,
+  "translate_tabs_to_spaces": true,
+}

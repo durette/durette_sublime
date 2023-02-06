@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced PLSQL",
+		"Alignment",
+		"ANSIescape",
+		"AutoHotkey",
+		"BracketHighlighter",
+		"Color Scheme - Vintage Terminal",
+		"Indent XML",
+		"MoveTab",
+		"Oracle",
+		"Package Control",
+		"PowerShell",
+		"RichTextFormat",
+		"StandardFormat",
+		"SublimeAStyleFormatter",
+		"SublimeLinter",
+		"SublimeLinter-contrib-standard",
+		"Terminus",
+		"Theme - Centurion",
+		"Theme - Minimist",
+		"VBScript",
+	],
+}
