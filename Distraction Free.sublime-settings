@@ -1,4 +1,6 @@
 {
 	"word_wrap": false,
-	"draw_centered": false
+	"draw_centered": false,
+	"always_show_minimap_viewport": true,
+	"draw_minimap_border": true,
 }
